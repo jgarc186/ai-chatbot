@@ -1,4 +1,4 @@
-# Hello World Chatbot
+# AI Chatbot 
 
 A simple Python chatbot that uses the OpenAI API to create a pirate-themed conversational AI assistant.
 
@@ -35,7 +35,7 @@ If you don't have uv installed, follow the installation guide at: https://docs.a
 
 Run the chatbot:
 ```bash
-python chatbot.py
+uv run chatbot.py
 ```
 
 The chatbot will greet you with a pirate-themed message and wait for your input. Simply type your messages and press Enter to chat with the AI assistant. The assistant will respond in character as a pirate.
